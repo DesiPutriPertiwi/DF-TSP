@@ -1,0 +1,1 @@
+<strong class="footer-company-name">Sintax_51 &copy; 2018 <a href="#">DF/TSP</a>.</strong>
